@@ -1,0 +1,1 @@
+# store-multiple-values-in-one-variable-using-javascript-arrays.js
